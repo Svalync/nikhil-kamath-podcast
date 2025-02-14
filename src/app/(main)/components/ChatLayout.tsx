@@ -11,7 +11,7 @@ export default function ChatLayout() {
       <iframe
         height="100%"
         width="100%"
-        src="http://svalync.com/widget_chatbot/fd11c5e8-c7d9-4d7e-bdf2-10f7010d02cf"
+        src="https://svalync.com/widget_chatbot/fd11c5e8-c7d9-4d7e-bdf2-10f7010d02cf"
         onLoad={() => setLoaded(true)}
         style={{
           display: loaded ? "block" : "none",
